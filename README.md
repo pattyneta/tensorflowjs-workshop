@@ -17,7 +17,7 @@ Follow these steps:
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
-<div id="label-container"></div>/div>
+<div id="label-container"></div>
 ```
 
 3.  Under the line that contains the URL imported, copy the following code:
